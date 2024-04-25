@@ -1,0 +1,14 @@
+torch==2.0.1
+torchvision==0.15.2
+jax==0.4.23
+jaxlib==0.4.23
+accelerate==0.23.0
+diffusers==0.20.2
+ipympl==0.9.3
+transformers==4.34.0
+xformers==0.0.22
+numpy
+scipy
+opencv-python
+matplotlib
+pyunpack
