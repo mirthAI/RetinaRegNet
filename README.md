@@ -19,8 +19,8 @@ The scripts were executed using a custom kernel configured with the list of pack
 * pyunpack
 * **Note:** To install the aforementioned list of packages, kindly use the command `pip install -r requirements.txt`
 
-## Citations
-Certain code cells draw inspiration from the original implementation of the [code](https://github.com/Tsingularity/dift) detailed in the paper ["Emergent Correspondence from Image Diffusion"](https://arxiv.org/abs/2306.03881).
+## References
+Certain code cells were referenced from the original implementation available at this [GitHub repository](https://github.com/Tsingularity/dift), as detailed in the paper titled ["Emergent Correspondence from Image Diffusion"](https://arxiv.org/abs/2306.03881).
 
 ## Citations
 Kindly cite our paper as follows if you use our code.
