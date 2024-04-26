@@ -17,3 +17,14 @@ The scripts were executed using a custom kernel configured with the list of pack
 * matplotlib
 * pyunpack
 * **Note:** To install the aforementioned list of packages, kindly use the command `pip install -r requirements.txt`
+# Citations
+Kindly cite our paper as follows if you use our code.
+```bibtex
+@misc{sivaraman2024retinaregnet,
+    title={RetinaRegNet: A Versatile Approach for Retinal Image Registration},
+    author={Vishal Balaji Sivaraman and Muhammad Imran and Qingyue Wei and Preethika Muralidharan and Michelle R. Tamplin and Isabella M. Grumbach and Randy H. Kardon and Jui-Kai Wang and Yuyin Zhou and Wei Shao},
+    year={2024},
+    eprint={2404.16017},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
