@@ -1,5 +1,6 @@
 # RetinaRegNet
-RetinaRegNet is a state-of-the-art tool designed to align two-dimensional retinal images that exhibit significant displacement or shifts with ease. Unlike other methods, it does not require the usual training for image registration, making it one of the few tools to implement a zero-shot learning approach. It uses a latent diffusion model to generate viable Diffusion Feature Maps (DIFT), marking a significant advancement in the field of retinal image registration. Furthermore, the model has proven to be effective on complex retinal image datasets such as 'FIRE', 'FLoRI21', and 'LSFG'.
+RetinaRegNet is a cutting-edge tool designed to align two-dimensional retinal images that exhibit significant displacement or shifts with relative ease and efficacy. Unlike other methods, it does not require conventional training for image registration, making it one of the few tools that use a zero-shot learning approach. The method is inspired by the paper titled ["Emergent Correspondence from Image Diffusion"](https://arxiv.org/abs/2306.03881), employing an advanced latent stable diffusion model to generate robust Diffusion Feature Maps (DIFT), significantly advancing the field of retinal image registration. Additionally, the model has effectively worked on three challenging retinal image datasets: two public datasets, ["FIRE"](https://carlos.hernandez.im/papers/2017_07_JMO.pdf) and ["FLoRI21"](https://d197for5662m48.cloudfront.net/documents/publicationstatus/162961/preprint_pdf/738552aa194d07089578b227a4057471.pdf), and a privately owned dataset titled "LSFG".
+
 ## Requirements
 The scripts were executed using a custom kernel configured with the list of packages mentioned below.
 * torch-2.0.1
@@ -17,6 +18,10 @@ The scripts were executed using a custom kernel configured with the list of pack
 * matplotlib
 * pyunpack
 * **Note:** To install the aforementioned list of packages, kindly use the command `pip install -r requirements.txt`
+
+## Citations
+Certain code cells draw inspiration from the original implementation of the [code](https://github.com/Tsingularity/dift) detailed in the paper ["Emergent Correspondence from Image Diffusion"](https://arxiv.org/abs/2306.03881).
+
 ## Citations
 Kindly cite our paper as follows if you use our code.
 ```bibtex
