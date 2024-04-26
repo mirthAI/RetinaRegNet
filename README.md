@@ -16,4 +16,4 @@ The scripts were executed using a custom kernel configured with the list of pack
 * opencv-python
 * matplotlib
 * pyunpack
-**Note:** To install the aforementioned list of packages, kindly use the command `pip install -r requirements.txt`
+* **Note:** To install the aforementioned list of packages, kindly use the command `pip install -r requirements.txt`
