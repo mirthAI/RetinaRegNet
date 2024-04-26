@@ -1,1 +1,2 @@
 # RetinaRegNet
+RetinaRegNet is a tool designed to align two-dimensional retinal images that exhibit significant displacement or shifts with ease. Unlike other methods, it does not require the usual training for image registration, making it one of the few tools to implement a zero-shot learning approach. It uses a latent diffusion model to generate viable Diffusion Feature Maps (DIFT), marking a significant advancement in the field of retinal image registration. Furthermore, the model has proven effective on complex retinal datasets such as 'FIRE', 'FLoRI21', and 'LSFG'.
