@@ -1,6 +1,6 @@
 # RetinaRegNet
 RetinaRegNet is a state-of-the-art tool designed to align two-dimensional retinal images that exhibit significant displacement or shifts with ease. Unlike other methods, it does not require the usual training for image registration, making it one of the few tools to implement a zero-shot learning approach. It uses a latent diffusion model to generate viable Diffusion Feature Maps (DIFT), marking a significant advancement in the field of retinal image registration. Furthermore, the model has proven to be effective on complex retinal image datasets such as 'FIRE', 'FLoRI21', and 'LSFG'.
-# Requirements
+### Requirements
 The scripts were executed using a custom kernel configured with the list of packages mentioned below.
 * torch 2.0.1
 * torchvision 0.15.2
@@ -17,7 +17,7 @@ The scripts were executed using a custom kernel configured with the list of pack
 * matplotlib
 * pyunpack
 * **Note:** To install the aforementioned list of packages, kindly use the command `pip install -r requirements.txt`
-# Citations
+### Citations
 Kindly cite our paper as follows if you use our code.
 ```bibtex
 @misc{sivaraman2024retinaregnet,
