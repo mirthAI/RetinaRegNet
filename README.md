@@ -31,7 +31,7 @@ Evaluating our model on any of the mentioned datasets involves three simple step
 + **Download the corresponding script for the dataset from this repository.**
 + **Start executing the entire script with style.** 💅
 
-### Note:
+**Note:**
 + Before starting the model evaluation, ensure that the dataset and its corresponding script are saved in the same directory.
 + The aforementioned scripts are customized for each dataset listed here, facilitating the automatic processing of all images and their corresponding ground truth landmarks.
 
