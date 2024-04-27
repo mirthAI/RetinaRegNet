@@ -36,7 +36,7 @@ Evaluating our model on any of the mentioned datasets involves three simple step
 + The aforementioned scripts are customized for each dataset listed here, facilitating the automatic processing of all images and their corresponding ground truth landmarks.
 
 ## References
-Certain code cells were referenced from the original implementation available at this [GitHub repository](https://github.com/Tsingularity/dift), as detailed in the paper titled ["Emergent Correspondence from Image Diffusion"](https://arxiv.org/abs/2306.03881).
+Certain code cells were from [GitHub repository](https://github.com/Tsingularity/dift), as detailed in the paper titled ["Emergent Correspondence from Image Diffusion"](https://arxiv.org/abs/2306.03881).
 
 ## Citations
 Kindly cite our paper as follows if you use our code.
