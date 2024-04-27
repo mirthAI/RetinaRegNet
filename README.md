@@ -29,7 +29,7 @@ The scripts were executed using a custom kernel configured with the list of pack
 Evaluating our model on any of the mentioned datasets involves three simple steps, outlined below:
 + **Download a copy of the dataset using the provided link.**
 + **Download the corresponding script for the dataset from this repository.**
-+ **Start executing the entire script with style.** 💅
++ **Start executing the entire script with style.** 
 
 **Note:**
 + Before starting the model evaluation, ensure that the dataset and its corresponding script are saved in the same directory.
