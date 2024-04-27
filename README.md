@@ -41,4 +41,4 @@ Kindly cite our paper as follows if you use our code.
 }
 ```
 ## Contact
-For any questions related to the code or its execution, please feel free to contact Vishal Balaji Sivaraman at VishalBalaji.Sivaraman@medicine.ufl.edu.
+For any questions related to the code or its execution, please feel free to contact Vishal Balaji Sivaraman at vishalbalaji.sivaraman@medicine.ufl.edu.
