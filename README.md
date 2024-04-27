@@ -24,6 +24,16 @@ The scripts were executed using a custom kernel configured with the list of pack
 + [Fundus Image Regsitration Dataset (FIRE)](https://projects.ics.forth.gr/cvrl/fire/)
 + [Fluorescein Angiography Longitudinal Retinal Image Registration 2021 Dataset (FLoRI21)](https://ieee-dataport.org/open-access/flori21-fluorescein-angiography-longitudinal-retinal-image-registration-dataset)
 + Laser Speckle Flowgraphy Dataset (LSFG)
+  
+## Model Evaluation Procedure
+Evaluating our model on any of the mentioned datasets involves three simple steps, outlined below:
+#### Download a copy of the dataset using the provided link.
+#### Download the corresponding script for the dataset from this repository.
+#### Start executing the entire script with style. 💅
+
+### Note:
++ #### Before starting the model evaluation, ensure that the dataset and its corresponding script are saved in the same directory.
++ #### The aforementioned scripts are customized for each dataset listed here, facilitating the automatic processing of all images and their corresponding ground truth landmarks.
 
 ## References
 Certain code cells were referenced from the original implementation available at this [GitHub repository](https://github.com/Tsingularity/dift), as detailed in the paper titled ["Emergent Correspondence from Image Diffusion"](https://arxiv.org/abs/2306.03881).
