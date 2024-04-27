@@ -38,7 +38,7 @@ Kindly cite our paper as follows if you use our code.
     eprint={2404.16017},
     archivePrefix={arXiv},
     primaryClass={cs.CV}
-}```
-
+}
+```
 ## Contact
 For any questions related to the code or its execution, please feel free to contact Vishal Balaji Sivaraman at VishalBalaji.Sivaraman@medicine.ufl.edu.
