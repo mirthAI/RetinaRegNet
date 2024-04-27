@@ -25,7 +25,7 @@ The scripts were executed using a custom kernel configured with the list of pack
 * [Fluorescein Angiography Longitudinal Retinal Image Registration 2021 Dataset (FLoRI21)](https://ieee-dataport.org/open-access/flori21-fluorescein-angiography-longitudinal-retinal-image-registration-dataset)
 * Laser Speckle Flowgraphy Dataset (LSFG)
   
-## Model Evaluation Procedure
+## Evaluation Steps
 Evaluating our model on any of the mentioned datasets involves three simple steps, outlined below:
 + **Download a copy of the dataset using the provided link.**
 + **Download the corresponding script for the dataset from this repository.**
