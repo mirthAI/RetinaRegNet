@@ -2,7 +2,7 @@
 RetinaRegNet is a versatile registration model that achieves state-of-the-art performance in various retinal image registration problems. RetinaRegNet has the capacity to register images with large displacement deformation and minimal overlap. Unlike other deep learning-based registration methods, it does not require training on retinal images, making it a general approach applicable to other image registration problem. Our method is inspired by the paper titled ["Emergent Correspondence from Image Diffusion"](https://arxiv.org/abs/2306.03881), where the authors applied a latent stable diffusion model to generate robust Diffusion Features (DIFT) for finding semantic correspondences. We evaluated the performance of RetinaRegNet on three retinal image registration datasets: two public datasets, ["FIRE"](https://carlos.hernandez.im/papers/2017_07_JMO.pdf) and ["FLoRI21"](https://ieeexplore.ieee.org/document/9850360), and a privately owned dataset titled "LSFG".
 
 <p align="center">
-  <img src="Images/Results.png" alt="Visual Results" width="800">
+  <img src="Images/Results.png" alt="Visual Results" width="500">
 </p>
 
 For additional queries about the model and its architecture, kindly refer to our paper titled ["RetinaRegNet: A Versatile Approach for Retinal Image Registration"](https://export.arxiv.org/abs/2404.16017).
