@@ -1,5 +1,5 @@
 # RetinaRegNet
-RetinaRegNet is a versatile registration model that achieves state-of-the-art performance in various retinal image registration problems. RetinaRegNet has the capacity to register images with large displacement deformation and minimal overlap. Unlike other deep learning-based registration methods, it does not require training on retinal images, making it a general approach applicable to other image registration problem. Our method is inspired by the paper titled ["Emergent Correspondence from Image Diffusion"](https://arxiv.org/abs/2306.03881), where the authors applied a latent stable diffusion model to generate robust Diffusion Features (DIFT) for finding semantic correspondences. We evaluated the performance of RetinaRegNet on three retinal image registration datasets: two public datasets, ["FIRE"](https://carlos.hernandez.im/papers/2017_07_JMO.pdf) and ["FLoRI21"](https://ieeexplore.ieee.org/document/9850360), and a privately owned dataset titled "LSFG".
+RetinaRegNet is a versatile registration model that achieves state-of-the-art performance in various retinal image registration problems. RetinaRegNet has the capacity to register images with large displacement deformation and minimal overlap. Unlike other deep learning-based registration methods, it does not require training on retinal images, making it a general approach applicable to other image registration problems. Our method is inspired by the paper titled ["Emergent Correspondence from Image Diffusion"](https://arxiv.org/abs/2306.03881), where the authors applied a latent stable diffusion model to generate robust Diffusion Features (DIFT) for finding semantic correspondences. We evaluated the performance of RetinaRegNet on three retinal image registration datasets: two public datasets, ["FIRE"](https://carlos.hernandez.im/papers/2017_07_JMO.pdf) and ["FLoRI21"](https://ieeexplore.ieee.org/document/9850360), and a privately owned dataset titled "LSFG".
 
 <p align="center">
   <img src="Images/Results.PNG" alt="Visual Results" width="750">
@@ -40,7 +40,7 @@ Evaluating our model on any of the mentioned datasets involves three simple step
 + The aforementioned scripts are customized for each dataset listed here, facilitating the automatic processing of all images and their corresponding ground truth landmarks.
 
 ## References
-Certain code cells were from [GitHub repository](https://github.com/Tsingularity/dift), as detailed in the paper titled ["Emergent Correspondence from Image Diffusion"](https://arxiv.org/abs/2306.03881).
+Certain code cells were from this [GitHub repository](https://github.com/Tsingularity/dift), as detailed in the paper titled ["Emergent Correspondence from Image Diffusion"](https://arxiv.org/abs/2306.03881).
 
 ## Citations
 Kindly cite our paper as follows if you use our code.
