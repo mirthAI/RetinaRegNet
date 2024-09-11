@@ -5,7 +5,7 @@ RetinaRegNet is a versatile registration model that achieves state-of-the-art pe
   <img src="Images/Results.PNG" alt="Visual Results" width="750">
 </p>
 
-For additional queries about the model and its architecture, kindly refer to our paper titled ["RetinaRegNet: A Versatile Approach for Retinal Image Registration"](https://export.arxiv.org/abs/2404.16017).
+For additional queries about the model and its architecture, kindly refer to our paper titled ["RetinaRegNet: A Zero-Shot Approach for Retinal Image Registration"](https://export.arxiv.org/abs/2404.16017).
 ## Requirements
 The scripts were executed using a custom kernel configured with the list of packages mentioned below.
 * torch==2.0.1
