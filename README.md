@@ -30,7 +30,7 @@ The scripts were executed using a custom kernel configured with the list of pack
 ## Datasets
 * [Fundus Image Regsitration Dataset (FIRE)](https://projects.ics.forth.gr/cvrl/fire/)
 * [Fluorescein Angiography Longitudinal Retinal Image Registration 2021 Dataset (FLoRI21)](https://ieee-dataport.org/open-access/flori21-fluorescein-angiography-longitudinal-retinal-image-registration-dataset)
-* Laser Speckle Flowgraphy Dataset (LSFG)
+* Laser Speckle Flowgraphy Dataset (LSFG) -- To be released soon
   
 ## Evaluation Steps
 Evaluating our model on any of the mentioned datasets involves three simple steps, outlined below:
