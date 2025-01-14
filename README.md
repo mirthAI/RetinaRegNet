@@ -7,7 +7,7 @@ RetinaRegNet is a versatile registration model that achieves state-of-the-art pe
 
 This GitHub repository includes the latest implementation of our paper titled **RetinaRegNet: A Zero-Shot Approach for Retinal Image Registration.** Please note that this paper is an updated version of our previous paper titled **RetinaRegNet: A Versatile Approach for Retinal Image Registration**. Since both papers belong to the same study, we are using a single GitHub repository for both.
 
-For additional queries about the model and its architecture, kindly refer to our paper titled ["RetinaRegNet: A Zero-Shot Approach for Retinal Image Registration"](https://export.arxiv.org/abs/2404.16017).
+For additional queries about the model and its architecture, kindly refer to our paper titled ["RetinaRegNet: A Zero-Shot Approach for Retinal Image Registration"](https://www.sciencedirect.com/science/article/pii/S001048252401730X).
 
 ## Requirements
 The scripts were executed using a custom kernel configured with the list of packages mentioned below.
@@ -48,13 +48,15 @@ Certain code cells were from this [GitHub repository](https://github.com/Tsingul
 ## Citations
 Kindly cite our paper as follows if you use our code.
 ```bibtex
-@misc{sivaraman2024retinaregnet,
-    title={RetinaRegNet: A Versatile Approach for Retinal Image Registration},
-    author={Vishal Balaji Sivaraman and Muhammad Imran and Qingyue Wei and Preethika Muralidharan and Michelle R. Tamplin and Isabella M . Grumbach and Randy H. Kardon and Jui-Kai Wang and Yuyin Zhou and Wei Shao},
-    year={2024},
-    eprint={2404.16017},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@article{SIVARAMAN2025109645,
+title = {RetinaRegNet: A zero-shot approach for retinal image registration},
+journal = {Computers in Biology and Medicine},
+volume = {186},
+pages = {109645},
+year = {2025},
+issn = {0010-4825},
+doi = {https://doi.org/10.1016/j.compbiomed.2024.109645},
+url = {https://www.sciencedirect.com/science/article/pii/S001048252401730X}
 }
 ```
 ## Contact
