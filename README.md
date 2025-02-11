@@ -41,7 +41,7 @@ Evaluating our model on any of the mentioned datasets involves three simple step
 **Note:**
 + Before starting the model evaluation, ensure that the dataset and its corresponding script are saved in the same directory.
 + The aforementioned scripts are customized for each dataset listed here, facilitating the automatic processing of all images and their corresponding ground truth landmarks.
-+ If you wish to execute the model on **Google Colab**, please use the parent script titled **google_colab_tutorial.ipynb**, located in the **'Scripts'** folder along with the corresponding **Python script** for the task.
++ If you wish to execute the model on **Google Colab**, please use the parent script titled **RetinaRegNet_Google_Colab_Tutorial.ipynb**, located in the **'Scripts'** folder along with the corresponding **Python script** for the task.
 + Finally, if you are executing the model on **Google Colab**, please ensure that you have the required resources, as specified in the paper, to achieve the model's full potential. Otherwise, you may need to **downscale the image resolution** accordingly to avoid a **CUDA out-of-memory error**.
 
 ## References
