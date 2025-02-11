@@ -12,3 +12,4 @@ scipy==1.11.3
 opencv-python==4.10.0.84
 matplotlib==3.8.0
 pyunpack==0.3
+patool==3.1.0
