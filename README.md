@@ -25,6 +25,7 @@ The scripts were executed using a custom kernel configured with **Python 3.10.12
 * opencv-python==4.10.0.84
 * matplotlib==3.8.0
 * pyunpack==0.3
+* patool==3.1.0
 * **Note:** To install the aforementioned list of packages, kindly use the command `pip install -r requirements.txt`
 
 ## Datasets
