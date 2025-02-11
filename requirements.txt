@@ -7,8 +7,8 @@ diffusers==0.20.2
 ipympl==0.9.3
 transformers==4.34.0
 xformers==0.0.22
-numpy
-scipy
-opencv-python
-matplotlib
-pyunpack
+numpy==1.23.5
+scipy==1.11.3
+opencv-python==4.10.0.84
+matplotlib==3.8.0
+pyunpack==0.3
