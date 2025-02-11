@@ -10,7 +10,7 @@ This GitHub repository includes the latest implementation of our paper titled 
 For additional queries about the model and its architecture, kindly refer to our paper titled ["RetinaRegNet: A Zero-Shot Approach for Retinal Image Registration"](https://www.sciencedirect.com/science/article/pii/S001048252401730X).
 
 ## Requirements
-The scripts were executed using a custom kernel configured with Python **3.10.12**, which includes the list of packages mentioned below.
+The scripts were executed using a custom kernel configured with **Python 3.10.12**, which includes the list of packages mentioned below.
 * torch==2.0.1
 * torchvision==0.15.2
 * jax==0.4.23
