@@ -23,7 +23,7 @@ from diffusers import DDIMScheduler
 from diffusers import StableDiffusionPipeline
 
 
-img_size = 920 # input image resolution for image registration, tried with 480 on T4 GPU in Colab as Proof of Concept.
+img_size = 920 # input image resolution for image registration, tried with 480 on a trial run with T4 GPU in Colab.
 archive_name = "FIRE" # dataset file name
 
 # Check if the folder already exists
