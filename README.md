@@ -45,6 +45,9 @@ Evaluating our model on any of the mentioned datasets involves three simple step
 + If you wish to execute the model on **Google Colab**, please use the parent script titled **RetinaRegNet_Google_Colab_Tutorial.ipynb**, located in the **'Scripts'** folder along with the corresponding **Python script** for the task.
 + Finally, if you are executing the model on **Google Colab**, please ensure that you have the required resources, as specified in the paper, to achieve the model's full potential. Otherwise, you may need to **downscale the image resolution** accordingly to avoid a **CUDA out-of-memory error**.
 
+## Model Results
+A copy of our model's recorded results on the FIRE and FLoRI21 datasets is available here: [link](https://drive.google.com/drive/folders/10jSC88tZVHUZWw63hQS_OA-pdE8DShvt?usp=sharing).
+
 ## References
 Certain code cells were from this [GitHub repository](https://github.com/Tsingularity/dift), as detailed in the paper titled ["Emergent Correspondence from Image Diffusion"](https://arxiv.org/abs/2306.03881).
 
